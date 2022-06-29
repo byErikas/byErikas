@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @byErikas
-- 🌱 I’m currently learning the subtleties of PHP and Laravel framework, improving my skills with MySQL and both back-end and front-end web development.
+- 🌱 I’m currently learning the subtleties of PHP and Laravel framework, improving my skills with MySQL and in both back and front-end web development.
 - 📫 Reach me by email: erikasbystautas1@gmail.com
 
 <!---
